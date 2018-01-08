@@ -28,6 +28,7 @@ Resources for customizing your project.
 - [libretro/arcade-overlays](https://github.com/libretro/arcade-overlays) - arcade overlays
 - [biscuits99/rp-video-manager](https://github.com/biscuits99/rp-video-manager) - overlay installer
 - [dankcushions/crt-pi-configs](https://github.com/dankcushions/crt-pi-configs) - crt shader install script
+- [meleu/rpie-art](https://github.com/meleu/rpie-art) - overlay installer
 
 ### Custom Collections
 - [asdfgasfhsn/retropie-mame-row](https://github.com/asdfgasfhsn/retropie-mame-row) - creates custom collections for [MAME Random Of the Week](https://retropie.org.uk/forum/category/16/mame-random-of-the-week)
