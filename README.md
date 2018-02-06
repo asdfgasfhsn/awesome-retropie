@@ -38,3 +38,4 @@ Resources for customizing your project.
 ## Extras
 Additional software installers.
 - [zerojay/RetroPie-Extra](https://github.com/zerojay/RetroPie-Extra) - script to add additional features to RetroPie
+- [hiulit/RetroPie-Fun-Facts-Splashscreens](https://github.com/hiulit/RetroPie-Fun-Facts-Splashscreens) - Fun Facts Splashscreens for RetroPie on RPi hardware
