@@ -29,7 +29,8 @@ Resources for customizing your project.
 - [biscuits99/rp-video-manager](https://github.com/biscuits99/rp-video-manager) - overlay installer
 - [dankcushions/crt-pi-configs](https://github.com/dankcushions/crt-pi-configs) - crt shader install script
 - [meleu/rpie-art](https://github.com/meleu/rpie-art) - overlay installer
-- [cosmo0/retropie-arcade-overlays](https://github.com/cosmo0/retropie-arcade-overlays) - collection of arcade overlays
+- [cosmo0/retropie-overlays-arcade-artwork](https://github.com/cosmo0/retropie-overlays-arcade-artwork) - collection of arcade overlays
+- [cosmo0/retropie-overlays-arcade-realistic](https://github.com/cosmo0/retropie-overlays-arcade-realistic) - collection of realistic arcade overlays
 - [cosmo0/retropie-overlays](https://github.com/cosmo0/retropie-overlays) - collection of system overlays
 
 ### Custom Collections
