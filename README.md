@@ -24,7 +24,7 @@ Resources for customizing your project.
 - [sselph/scraper](https://github.com/sselph/scraper) - auto-scaper for EmulationStation
 - [Universal-Rom-Tools/Universal-XML-Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper/releases) - Windows tool for artwork scraping
 
-### Overlays And Shaders
+### Overlays, Bezels And Shaders
 - [libretro/arcade-overlays](https://github.com/libretro/arcade-overlays) - arcade overlays
 - [biscuits99/rp-video-manager](https://github.com/biscuits99/rp-video-manager) - overlay installer
 - [dankcushions/crt-pi-configs](https://github.com/dankcushions/crt-pi-configs) - crt shader install script
@@ -32,6 +32,7 @@ Resources for customizing your project.
 - [cosmo0/retropie-overlays-arcade-artwork](https://github.com/cosmo0/retropie-overlays-arcade-artwork) - collection of arcade overlays
 - [cosmo0/retropie-overlays-arcade-realistic](https://github.com/cosmo0/retropie-overlays-arcade-realistic) - collection of realistic arcade overlays
 - [cosmo0/retropie-overlays](https://github.com/cosmo0/retropie-overlays) - collection of system overlays
+- [thebezelproject/BezelProject](https://github.com/thebezelproject/BezelProject) - Bezel installer project
 
 ### Custom Collections
 - [asdfgasfhsn/retropie-mame-row](https://github.com/asdfgasfhsn/retropie-mame-row) - creates custom collections for [MAME Random Of the Week](https://retropie.org.uk/forum/category/16/mame-random-of-the-week)
