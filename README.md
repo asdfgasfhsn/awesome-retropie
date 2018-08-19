@@ -23,6 +23,7 @@ Resources for customizing your project.
 ### Artwork
 - [sselph/scraper](https://github.com/sselph/scraper) - auto-scaper for EmulationStation
 - [Universal-Rom-Tools/Universal-XML-Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper/releases) - Windows tool for artwork scraping
+- [Skraper](https://www.skraper.net/) - Multiplatform tool for artwork scraping
 
 ### Overlays, Bezels And Shaders
 - [libretro/arcade-overlays](https://github.com/libretro/arcade-overlays) - arcade overlays
